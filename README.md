@@ -1,7 +1,5 @@
 ## Socket Attack 
 
----
-
 Este repositório contém dois exemplos de scripts em Python que simulam um cenário de comunicação entre uma **Vítima** e um **Atacante**, usando as bibliotecas `socket` e `subprocess`. O **servidor** atua como a **Vítima** e o **cliente** como o **Atacante**, enviando comandos e recebendo dados do servidor.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg) ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
